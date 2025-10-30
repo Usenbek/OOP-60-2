@@ -1,0 +1,5 @@
+git config --global user.name "Usenbek"
+git config --global user.email use.bektemirov@gmail.com
+
+git init - инициализация гита
+gir remote and origin
