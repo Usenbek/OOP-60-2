@@ -2,4 +2,14 @@ git config --global user.name "Usenbek"
 git config --global user.email use.bektemirov@gmail.com
 
 git init - инициализация гита
-gir remote and origin
+git remote and origin - привязка к репозиторию
+
+
+
+
+git status - статус репозитории
+
+git add . - добавление файлов в буфер обмена
+git commit -m "begin" - сохранение всего из буфера обмена
+
+git push origin master - отправка всех сохранений на сайт GitHub
