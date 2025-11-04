@@ -2,4 +2,4 @@
 .venv
 __pychache__
 venv
-lesson1.py
+lessons/lesson1.py
