@@ -71,7 +71,7 @@ class RUSms(SmsService):
             "code": "1234",
             "phone": "+79915089945"
         }
-        self.send_otp(phone)
+
 obj = MageHero("merlin", 10, 100, 50)
 obj2 = WarriorHero("kana",50,300,70)
 print(obj.action())
